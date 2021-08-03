@@ -571,8 +571,10 @@ img {
   padding-left: 16px;
 }
 .footer-send-btn {
-  width: 200px;
-  height: 50px;
+  padding-left: 42px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 28px;
   background: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -582,7 +584,7 @@ img {
   line-height: 1.87;
   display: flex;
   align-items: center;
-  text-align: center;
+  
   letter-spacing: 0.06em;
   color: #ffffff;
   cursor: pointer;
@@ -590,8 +592,8 @@ img {
   margin-left: 12px;
 }
 .register {
-  padding-left: 42px;
   margin-right: 24px;
+  text-align: center; 
 }
 
 /* END FOOTER */
